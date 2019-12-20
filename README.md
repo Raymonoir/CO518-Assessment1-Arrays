@@ -1,5 +1,7 @@
 # CO518-Assessment1-Arrays
 
+<h1> Aim of assessment </h1>
+ This assessment was a test of our knowledge of arrays and hashmap data structures.
 
-This assessment was a test of our knowledge of arrays and hashmaps.
-I recieved 96% on this assessment.
+<h1> Mark achieved </h1>
+ I recieved 96% on this assessment.
